@@ -1,0 +1,23 @@
+{
+  "name": "rollup_react_component_example",
+  "version": "1.0.0",
+  "description": "example project build react component by rollup.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-react": "^7.0.0",
+    "rollup": "^1.21.4",
+    "rollup-plugin-babel": "^4.3.3"
+  }
+}

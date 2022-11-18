@@ -22,7 +22,7 @@
     "@storybook/addon-actions": "^5.2.1",
     "@storybook/addon-links": "^5.2.1",
     "@storybook/addons": "^5.2.1",
-    "@storybook/react": "^5.2.1",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.0.6",
     "rollup": "^1.21.4",
     "rollup-plugin-babel": "^4.3.3"
